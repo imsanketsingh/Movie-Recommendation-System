@@ -6,4 +6,6 @@ The Website has been created using Python's Streamlit library.
 It had been deployed on Streamlit Cloud but now since my Git LFS Quota has been finished and all my files got dissappered. Thankfully I had the local copies with me.
 Now, I can't create a repo of size >100MB. Hence I had to remove the cosine_similarities.pkl file, movies_data.pkl file (which were earlier needed to launch a streamlit webapp) and the two datasets which were taking close to 300 MB space.
 
+Link for the datasets: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
 # See Demo
