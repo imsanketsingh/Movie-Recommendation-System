@@ -1,5 +1,5 @@
 requests==2.28.1
-streamlit==1.10.0
+streamlit==1.56.0
 streamlit_on_Hover_tabs==1.0.1
 sklearn
 nltk
